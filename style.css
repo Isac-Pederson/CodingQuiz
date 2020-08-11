@@ -1,0 +1,34 @@
+#header{
+    margin-top: 5%;
+}
+
+#quiz-button{
+    padding-top: 10%;
+}
+
+.hide{
+    display: none;
+}
+
+
+
+.score-time-title{
+  font-family: 'Oswald',
+  sans-serif;
+  text-out
+  border-radius: 25px;
+  border-radius: 25px;
+  background: #9900ff;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+
+.button{
+    font-family: 'Oswald',
+    sans-serif;
+}
+
+/* div{
+    border: 1px solid red;
+} */
